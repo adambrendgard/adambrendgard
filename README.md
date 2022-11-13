@@ -12,7 +12,7 @@ Passionate about:
 - A good cup of single-origin coffee ☕
 
 
-All code is for personal or academic purposes and has no affiliation with my employer(s).
+*All code is for personal or academic purposes and has no affiliation with my employer(s).*
 
 Seeking FT internship opportunties for Summer 2023.
 
