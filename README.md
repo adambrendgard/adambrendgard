@@ -1,9 +1,19 @@
-### Hi there 👋
+**🌊 Cybersecurity**, *Western Washington University (2023)* 
+**⚕️ Information Security Analyst**, *North Sound Accountable Community of Health* 
+**⚡ Information Systems Technician**, *U.S. Coast Guard Cyber Command*
 
-#**🌊 Cybersecurity**, *Western Washington University (2023)* 
+Passionate about:
+- Offensive security
+- A.I.
+- Social engineering
+- Criminal psychology
+- A good cup of single-origin coffee ☕
 
 
+All code is for personal or academic purposes and has no affiliation with my employer(s).
 
+**Let's talk!**
+*adam@brendgard.tech*
 
 
 <!--
