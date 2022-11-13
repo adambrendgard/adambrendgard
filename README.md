@@ -1,5 +1,7 @@
 **🌊 Cybersecurity**, *Western Washington University (2023)* 
+
 **⚕️ Information Security Analyst**, *North Sound Accountable Community of Health* 
+
 **⚡ Information Systems Technician**, *U.S. Coast Guard Cyber Command*
 
 Passionate about:
@@ -13,6 +15,7 @@ Passionate about:
 All code is for personal or academic purposes and has no affiliation with my employer(s).
 
 **Let's talk!**
+
 *adam@brendgard.tech*
 
 
