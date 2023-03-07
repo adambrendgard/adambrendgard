@@ -2,7 +2,7 @@
 
 **⚕️ Information Security Analyst**, *North Sound Accountable Community of Health* 
 
-**⚡ Information Systems Technician**, *U.S. Coast Guard Cyber Command*
+**⚡ Cyber Mission Specialist**, *U.S. Coast Guard Cyber Command*
 
 Passionate about:
 - Offensive security
