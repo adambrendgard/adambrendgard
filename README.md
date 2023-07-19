@@ -6,7 +6,6 @@
 
 Passionate about:
 - Offensive security
-- A.I.
 - Social engineering
 - Criminal psychology
 - A good cup of single-origin coffee ☕
